@@ -1,6 +1,9 @@
 {
   "resources": [
     {"id":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"order":0,},
+    {"id":{"name":"heartman","path":"objects/heartman/heartman.yy",},"order":1,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":15,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
