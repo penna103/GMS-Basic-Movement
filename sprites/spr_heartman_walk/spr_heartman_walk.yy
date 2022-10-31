@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_heartman_walk",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 512,
   "height": 512,
   "textureGroupId": {
@@ -24,27 +28,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ee490a5f-da50-43de-8351-2cfe038f99dc","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee490a5f-da50-43de-8351-2cfe038f99dc","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"ee490a5f-da50-43de-8351-2cfe038f99dc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"56d775f0-3d85-49c4-8ecf-3d85a3e8b5c2","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"56d775f0-3d85-49c4-8ecf-3d85a3e8b5c2","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"56d775f0-3d85-49c4-8ecf-3d85a3e8b5c2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b9ca7179-e036-4b72-9684-6fb0bb93818e","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b9ca7179-e036-4b72-9684-6fb0bb93818e","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"b9ca7179-e036-4b72-9684-6fb0bb93818e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b02db99f-f5b6-458f-915d-5059e2d17097","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b02db99f-f5b6-458f-915d-5059e2d17097","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"b02db99f-f5b6-458f-915d-5059e2d17097","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0dfb839b-7f79-4336-8f26-d26e695125c6","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0dfb839b-7f79-4336-8f26-d26e695125c6","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"0dfb839b-7f79-4336-8f26-d26e695125c6","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"14826d3f-d6ae-4184-9ec5-cad458c0dd0a","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"14826d3f-d6ae-4184-9ec5-cad458c0dd0a","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"LayerId":{"name":"e9342fc7-a767-4777-b05c-01b62dd07603","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","name":"14826d3f-d6ae-4184-9ec5-cad458c0dd0a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee490a5f-da50-43de-8351-2cfe038f99dc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"56d775f0-3d85-49c4-8ecf-3d85a3e8b5c2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b9ca7179-e036-4b72-9684-6fb0bb93818e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b02db99f-f5b6-458f-915d-5059e2d17097",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0dfb839b-7f79-4336-8f26-d26e695125c6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14826d3f-d6ae-4184-9ec5-cad458c0dd0a",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "spr_heartman_walk",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 9.0,
@@ -55,14 +49,14 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"88f435cb-bb83-4147-985f-98e22579cb81","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee490a5f-da50-43de-8351-2cfe038f99dc","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"314e34b2-40dc-4a95-a172-8cced03f7d3a","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"56d775f0-3d85-49c4-8ecf-3d85a3e8b5c2","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"81c5f620-655d-4408-bdf1-70ee677d3fba","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9ca7179-e036-4b72-9684-6fb0bb93818e","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"87ce85b6-2e12-488e-9e41-32adcc209433","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b02db99f-f5b6-458f-915d-5059e2d17097","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"6af4df6f-458a-4d5e-88af-f13c938c2ac6","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dfb839b-7f79-4336-8f26-d26e695125c6","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"1a50deb0-ea3f-4d66-914b-e4b9f26e4dfb","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"14826d3f-d6ae-4184-9ec5-cad458c0dd0a","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -78,22 +72,13 @@
     "yorigin": 256,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_heartman_walk","path":"sprites/spr_heartman_walk/spr_heartman_walk.yy",},
-    "resourceVersion": "1.3",
-    "name": "spr_heartman_walk",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e9342fc7-a767-4777-b05c-01b62dd07603","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e9342fc7-a767-4777-b05c-01b62dd07603","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_heartman_walk",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
